@@ -1,0 +1,6 @@
+{
+  "name": "ScholarVault MP - Zero Photocopy Digital Document Locker",
+  "description": "Digital document vault and renewal system for scholarship applicants and college verification officers, eliminating recurring paper photocopy submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
